@@ -30,7 +30,7 @@
 ![JavaScript](https://img.shields.io/badge/logo-javascript-blue?logo=javascript;
 
 #### Databases:
-![MySQL](https://img.shields.io/badge/blue?logo=mysql)
+![MySQL](https://img.shields.io/badge/logo-mysql-blue?logo=mysql)
 
 #### Workstation Tools:
 
