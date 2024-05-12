@@ -27,10 +27,10 @@
 #### Studying in this moment:
 
 
-![JavaScript](https://img.shields.io/badge/logo-javascript-blue?logo=javascript;
+##### JavaScript
 
 #### Databases:
-![MySQL](https://img.shields.io/badge/logo-mysql-blue?logo=mysql)
+ ##### MySQL
 
 #### Workstation Tools:
 
