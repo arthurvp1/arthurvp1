@@ -13,24 +13,46 @@
 
 ## My Skills
 
+##### JavaScript
+##### HTML
+##### CSS
+
+
+
 #### Main Stack:
 
+##### Front-end
+###### JavaScript
+###### HTML
+###### CSS
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 #### Secondary Stack:
 
+##### Back-end
+
+###### JAVA - basic
 
 #### Studying in this moment:
 
+##### DATABASE
+##### JAVA
+##### JAVASCRIPT
 
-##### JavaScript
 
 #### Databases:
  ##### MySQL
 
 #### Workstation Tools:
 
+ ##### Visual Studio
+
+ ##### INTELLIJ
+
+ ##### TRELO
+
+ ##### DISCORD
 
 &nbsp;
 &nbsp;
