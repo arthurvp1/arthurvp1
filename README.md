@@ -19,7 +19,7 @@
 
 
 
-#### Main Stack:
+### Main Stack:
 
 ##### Front-end
 ###### JavaScript
@@ -34,17 +34,18 @@
 
 ###### JAVA - basic
 
-#### Studying in this moment:
+### Studying in this moment:
 
 ##### DATABASE
 ##### JAVA
 ##### JAVASCRIPT
 
 
-#### Databases:
+### Databases:
  ##### MySQL
+ ##### PostGreeSQL
 
-#### Workstation Tools:
+### Workstation Tools:
 
  ##### Visual Studio
 
