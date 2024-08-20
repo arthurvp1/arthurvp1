@@ -2,8 +2,7 @@
 <p align="center">I ❤️ solve great challenges using tech. <br><br> I am <strong>passionate to discover new stuffs</strong> and use them to create high quality solutions. Today, I'm a <strong>javascript student</strong> focused on web development and database.</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=arthurviecili07&theme=radical&mode=weekly" />
-<img width=40% align="center" src="https://github-readme-stats-git-main-arthurviecili.vercel.app/api/top-langs/?username=arthurviecili07&show_icons=true&theme=radical&layout=compact" />
+
  </div>
  
  &nbsp;
