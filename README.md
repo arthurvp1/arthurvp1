@@ -1,5 +1,5 @@
 <h1>Hi!!</h1>
-<p align="center">I ❤️ solve great challenges using tech. <br><br> I am <strong>passionate to discover new stuffs</strong> and use them to create high quality solutions. Today, I'm a <strong>javascript student</strong> focused on web development and database.</p>&nbsp;
+<p align="center"> My name is Arthur and I solve great challenges using tech. <br><br> I am <strong>passionate to discover new stuffs</strong> and use them to create high quality solutions. Today, I'm a <strong>Front-end student</strong> focused on web development and database. But I am also studying Java to program in back-end. <br><br></p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
 
@@ -21,11 +21,8 @@
 ### Main Stack:
 
 ##### Front-end
-###### JavaScript
-###### HTML
-###### CSS
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+###### React
 
 #### Secondary Stack:
 
@@ -38,6 +35,8 @@
 ##### DATABASE
 ##### JAVA
 ##### JAVASCRIPT
+##### REACT
+##### APP DEVELOPMENT
 
 
 ### Databases:
