@@ -35,19 +35,19 @@
 
 
 
-### Main Stack:
+## Main Stack:
 
 ##### Front-end
 
 ###### React
 
-#### Secondary Stack:
+### Secondary Stack:
 
 ##### Back-end
 
 ###### JAVA - basic
 
-### Studying in this moment:
+## Studying in this moment:
 
 ##### DATABASE
 ##### JAVA
@@ -56,11 +56,11 @@
 ##### APP DEVELOPMENT
 
 
-### Databases:
+## Databases:
 
  ##### PostGreeSQL
 
-### Workstation Tools:
+## Workstation Tools:
 
  ##### Visual Studio
 
