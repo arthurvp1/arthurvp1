@@ -1,7 +1,7 @@
-<center>
-<h1>Hi!!</h1>
-</center>
-<p align="center"> My name is Arthur and I solve great challenges using tech. <br><br> I am <strong>passionate to discover new stuffs</strong> and use them to create high quality solutions. Today, I'm a <strong>Front-end student</strong> focused on web development and database. But I am also studying Java to program in back-end. <br><br></p>&nbsp;
+<div align= "center">
+<h1>Hi What's up!!</h1>
+</div>
+<p align="center">My name is Arthur and I study Technical in ADS. I plan to become a dev and delve deeper into the field of technology! <br><br> I am <strong>passionate about discovering new things</strong> and using them to create high-quality solutions. Today, I'm a <strong>Front-end student</strong> focused on web development and databases. But I am also studying Java to program in the back-end. 💙<br><br></p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
