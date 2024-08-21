@@ -1,4 +1,6 @@
+<center>
 <h1>Hi!!</h1>
+</center>
 <p align="center"> My name is Arthur and I solve great challenges using tech. <br><br> I am <strong>passionate to discover new stuffs</strong> and use them to create high quality solutions. Today, I'm a <strong>Front-end student</strong> focused on web development and database. But I am also studying Java to program in back-end. <br><br></p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
@@ -63,10 +65,6 @@
  ##### Visual Studio
 
  ##### Intellij
-
- ##### Trello
-
- ##### Discord
 
 
 &nbsp;
