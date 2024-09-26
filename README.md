@@ -90,7 +90,7 @@
   <img src="https://streak-stats.demolab.com?user=arthurvp1&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
-  
+  <img align="center" src="https://raw.githubusercontent.com/arthurvp1/arthurvp1/output/snake.svg" alt="Snake animation" />
   
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2f8dfb&height=120&section=footer"/>
 
